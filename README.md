@@ -15,6 +15,6 @@ This is a simple web-based implementation of the classic Rock Paper Scissors gam
 3. Click on one of the three buttons to make your choice.
 4. The computer will then randomly select one of the three options as well.
 5. The game result will be displayed on the screen.
-6. To view the instructions on how to play, click the "How to Play" button in the top right corner of the screen.
+6. To view the instructions on how to play, click the "How to Play" button.
 
 Have fun playing!
